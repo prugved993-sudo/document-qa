@@ -1,38 +1,21 @@
 
 streamlit
-
-# LangChain
 langchain
 langchain-core
 langchain-community
-langchain-openai
+langchain-text-splitters
 langchain-mistralai
 langchain-huggingface
-langchain-text-splitters
-
-# AI and embedding models
-openai
-mistralai
+langchain-ollama
+chromadb
+pypdf
+pymupdf
+python-dotenv
 sentence-transformers
 transformers
 torch
-tiktoken
-
-# Vector database
-chromadb
-
-# PDF processing
-pypdf
-pymupdf
-
-# Environment variables
-python-dotenv
-
-# Data processing
-pandas
 numpy
-
-# HTTP requests and utilities
+pandas
 requests
 httpx
-tqdm
+tiktoken
