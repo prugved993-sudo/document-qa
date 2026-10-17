@@ -1,0 +1,33 @@
+Machine Learning (ML)
+
+Machine Learning is a branch of Artificial Intelligence (AI). It enables computers to learn from data and make predictions without being explicitly programmed.
+
+Types of Machine Learning:
+1. Supervised Learning – Uses labeled data. Example: House price prediction.
+2. Unsupervised Learning – Finds patterns in unlabeled data. Example: Customer segmentation.
+3. Reinforcement Learning – Learns by trial and error using rewards and penalties.
+
+Common ML Algorithms:
+- Linear Regression
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+
+Applications:
+- Spam Email Detection
+- Face Recognition
+- Recommendation Systems
+- Fraud Detection
+- Medical Diagnosis
+- Self-Driving Cars
+
+Popular Python Libraries:
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- PyTorch
+
+Machine Learning helps businesses and researchers solve real-world problems by analyzing data and making intelligent decisions.
