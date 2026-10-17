@@ -19,3 +19,4 @@ pandas
 requests
 httpx
 tiktoken
+langchain-community
