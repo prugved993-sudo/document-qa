@@ -1,32 +1,38 @@
+
 streamlit
 
+# LangChain
 langchain
 langchain-core
 langchain-community
-
 langchain-openai
 langchain-mistralai
 langchain-huggingface
+langchain-text-splitters
 
+# AI and embedding models
 openai
 mistralai
-
-chromadb
-
 sentence-transformers
 transformers
 torch
+tiktoken
 
+# Vector database
+chromadb
+
+# PDF processing
 pypdf
 pymupdf
 
+# Environment variables
 python-dotenv
 
-tiktoken
-
+# Data processing
 pandas
 numpy
 
+# HTTP requests and utilities
 requests
 httpx
 tqdm
